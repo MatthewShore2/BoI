@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RoomGraphics
+comment1.params=rA
+comment1.target=RoomGraphics(Room)
+comment2.params=
+comment2.target=javax.swing.JFrame\ getFrame()
+comment3.params=
+comment3.target=java.awt.Image\ getBackgroundIm()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=ae
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\r\n\ updates\ and\ repaints\ the\ frame\ as\ actions\ happen\r\n\ @param\ ActionEvent\ ae,\ can\ be\ any\ event\ that\ triggers\ the\ updates.\r\n
+comment6.params=
+comment6.target=Player\ getPlayer()
+numComments=7

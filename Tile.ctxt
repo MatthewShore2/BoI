@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ Abstract\ class\ Tile\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=image\ walkable\ hurt\ type
+comment1.target=Tile(java.lang.String,\ boolean,\ boolean,\ int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment2.params=
+comment2.target=java.awt.Image\ getImage()
+comment3.params=
+comment3.target=boolean\ getWalkable()
+comment4.params=
+comment4.target=boolean\ getHurt()
+comment5.params=
+comment5.target=int\ getType()
+numComments=6
